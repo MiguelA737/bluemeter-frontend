@@ -1,11 +1,13 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+
+.Navbar {
+  background-color: #007BFF;
+}
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
